@@ -1,0 +1,22 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "Read me file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnan166/krishnan166.git"
+  },
+  "author": "Athulya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnan166/krishnan166/issues"
+  },
+  "homepage": "https://github.com/krishnan166/krishnan166#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
