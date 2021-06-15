@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/krishnan166/imgs/Header.jpg "Header")]
+![Header](https://github.com/krishnan166/krishnan166/blob/main/imgs/Header.jpg)
 
 # Hola Geeks 👋🏽
 
