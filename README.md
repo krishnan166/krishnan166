@@ -5,35 +5,35 @@
 I am a dedicated individual enthusiastic about real world problem solving using programming. 
 <br/>Currently pursuing M.Tech in Computer Networking Specialization alongwith working as an Intern for an E-commerce startup. 
 <br/>If you find any of my projects or contents useful, give a shoutout [@krishnan166](https://twitter.com/krishnan166)
-<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Athulya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnan166&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/krishnan166/github-readme-stats )
-<br/><br/>
+<br/>
+
+## My Github Stats
+
+[![Athulya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnan166&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/krishnan166/github-readme-stats )
+
 As quite a newbie into the open source, I would love to collaborate with tech enthusiasts and coders on ML, Web development and IoT based Projects.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnan166&show_icons=true&theme=radical&hide=hack&layout=compact)](https://github.com/krishnan166/github-readme-stats)
-<br/>![visitors](https://visitor-badge.glitch.me/badge?page_id=$krishnan166)
+## Languages & Tools:
+ I love to code in C/C++ mainly. I am more interested in machine level coding for instance, Node MCU and Arduino. I also have interest and expertise in Computer Vision as well.
+ 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnan166&show_icons=true&theme=radical&hide=hack&layout=compact)](https://github.com/krishnan166/github-readme-stats)
 
-<p align="center">
-	<a href="https://github.com/krishnan166"><img src="/imgs/github.png" alt="GitHub" width=50></a>
-	<a href="https://twitter.com/krishnan166"><img src="/imgs/twitter.png" alt="Twitter" width=50></a>
-	<a href="https://www.linkedin.com/in/athulya-krishnan166"><img src="imgs/linkedin.png" alt="LinkedIn" width=50></a>
-</p>
+### Check out:
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=$krishnan166)
+<a href="https://github.com/krishnan166/krishnan166/stargazers"><img src="https://img.shields.io/github/stars/krishnan166/krishnan166" alt="Stars Badge"/></a>
 
-<p align="center">👉 Check out what I've been working on 
+### Wanna Connect with me? You are most welcome ❤️
+
+<a href="https://discord.gg/Athulya#7244">
+  <img align="left" alt="Athulya's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/krishnan166">
+  <img align="left" alt="Athulya Krishnan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/athulya-krishnan166/">
+  <img align="left" alt="Athulya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br/><br/><p align="centre">👉 Check out what I've been working on 
 	<a href="https://github.com/krishnan166">here</a> and follow me on <a href="https://twitter.com/krishnan166"> Twitter</a> for updates! 🛠️ </p>
-<!--
-**krishnan166/krishnan166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
