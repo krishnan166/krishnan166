@@ -16,9 +16,9 @@ As quite a newbie into the open source, I would love to collaborate with tech en
 
 
 <p align="center">
-	<a href="https://github.com/krishnan166"><img src="giticon.png" alt="GitHub" width=30></a>
-	<a href="https://twitter.com/krishnan166"><img src="twitter.png" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/athulya-krishnan166"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://github.com/krishnan166"><img src="/imgs/github.png" alt="GitHub" width=50></a>
+	<a href="https://twitter.com/krishnan166"><img src="/imgs/twitter.png" alt="Twitter" width=50></a>
+	<a href="https://www.linkedin.com/in/athulya-krishnan166"><img src="imgs/linkedin.png" alt="LinkedIn" width=50></a>
 </p>
 
 <p align="center">👉 Check out what I've been working on 
