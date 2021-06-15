@@ -13,8 +13,11 @@ As quite a newbie into the open source, I would love to collaborate with tech en
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnan166&show_icons=true&theme=radical&hide=hack&layout=compact)](https://github.com/krishnan166/github-readme-stats)
 <br/>![visitors](https://visitor-badge.glitch.me/badge?page_id=$krishnan166)
-
-
+<p align="center">
+	<a href="https://github.com/krishnan166"><img src="" alt="GitHub"></a>
+	<a href="https://twitter.com/krishnan166"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/athulya-krishnan166"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+</p>
 <!--
 **krishnan166/krishnan166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
