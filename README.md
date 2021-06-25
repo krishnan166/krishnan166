@@ -33,7 +33,8 @@ I love to code in C/C++ mainly. I am more interested in machine level coding for
 
 ### Check out:
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=$krishnan166)
-<a href="https://github.com/krishnan166/krishnan166/stargazers"><img src="https://img.shields.io/github/stars/krishnan166/krishnan166" alt="Stars Badge"/></a>
+<a href="https://github.com/krishnan166/readme/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/andreasbm/readme.svg" height="20"/></a>
+<a href="https://github.com/krishnan166/stargazers"><img src="https://img.shields.io/github/stars/krishnan166/krishnan166" alt="Stars Badge"/></a>
 
 ### Wanna Connect with me? You are most welcome ❤️
 
