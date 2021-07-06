@@ -38,8 +38,8 @@ I love to code in C/C++ mainly. I am more interested in machine level coding for
 
 ### Wanna Connect with me? You are most welcome ❤️
 
-<a href="https://discord.gg/Athulya#7244">
-  <img align="left" alt="Athulya's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://www.instagram.com/krishnaa_166/">
+  <img align="left" alt="Athulya's Instagram" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/96/iconmonstr-instagram-15.png" />
 </a>
 <a href="https://twitter.com/krishnan166">
   <img align="left" alt="Athulya Krishnan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
