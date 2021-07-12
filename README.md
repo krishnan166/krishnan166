@@ -3,7 +3,7 @@
 # Hola Geeks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I am a dedicated individual enthusiastic about real world problem solving using programming. 
-<br/>Currently pursuing M.Tech in Computer Networking Specialization alongwith working as an Intern for an E-commerce startup. 
+<br/>Currently pursuing M.Tech in Computer Networking Specialization alongwith doing some virtual internship programs as well. 
 <br/>If you find any of my projects or contents useful, give a shoutout [@krishnan166](https://twitter.com/krishnan166)
 <br/>
 
