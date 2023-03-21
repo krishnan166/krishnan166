@@ -32,15 +32,11 @@ I love to code in C/C++ mainly. I am more interested in machine level coding for
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnan166&show_icons=true&theme=radical&hide=hack&layout=compact)](https://github.com/krishnan166/github-readme-stats)
 
 ### Check out:
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=$krishnan166)
+![Visitor Count](https://profile-counter.glitch.me/krishnan166/count.svg)
 <a href="https://github.com/krishnan166/readme/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/andreasbm/readme.svg" height="20"/></a>
 <a href="https://github.com/krishnan166/stargazers"><img src="https://img.shields.io/github/stars/krishnan166/krishnan166" alt="Stars Badge"/></a>
 
 ### Wanna Connect with me? You are most welcome ❤️
-
-<a href="https://www.instagram.com/krishnaa_166/">
-  <img align="left" alt="Athulya's Instagram" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/96/iconmonstr-instagram-15.png" />
-</a>
 <a href="https://twitter.com/krishnan166">
   <img align="left" alt="Athulya Krishnan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
