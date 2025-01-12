@@ -37,12 +37,7 @@ I love to code in C/C++ mainly. I am more interested in machine level coding for
 <a href="https://github.com/krishnan166/stargazers"><img src="https://img.shields.io/github/stars/krishnan166/krishnan166" alt="Stars Badge"/></a>
 
 ### Wanna Connect with me? You are most welcome ❤️
-<a href="https://twitter.com/krishnan166">
-  <img align="left" alt="Athulya Krishnan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/athulya-krishnan166/">
-  <img align="left" alt="Athulya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 <br/><br/><p align="centre">👉 Check out what I've been working on 
-	<a href="https://github.com/krishnan166">here</a> and follow me on <a href="https://twitter.com/krishnan166"> Twitter</a> for updates! 🛠️ </p>
+	<a href="https://github.com/krishnan166">here</a> for updates! 🛠️ </p>
 
